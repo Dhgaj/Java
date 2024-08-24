@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
