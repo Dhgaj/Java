@@ -1,11 +1,15 @@
 {
   //隐藏文件/文件夹
   "files.exclude": {
-    "**/.Trash": true, //隐藏回收站
-    "**/test.java": true,
+    // "**/.Trash": true, //隐藏回收站
+    // "**/test.java": true,
     "**/Icon?": true, //隐藏图标
     "**/.gitignore": true,
-    "**/.gitattributes": true
+    "**/.gitattributes": true,
+    "**/README.md": true,
+    "**/ex": true,
+    "**/example": true,
+    "**/Lab": true
   },
 
   "workbench.colorTheme": "Default Dark Modern",
